@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="js/index.js"></script>
+  <title>Cover.html</title>
+</head>
+<body>
+	<h1><center>SELAMAT DATANG...</center></h1>
+	
+	<center><p>
+<a href = "https://acoindonesia.000webhostapp.com/" target="_blank"> 
+<img src = "Assets/Img/Logo.png" height="250 width="250"/> 
+<!-- When image is clicked, it'll open the provided link--> 
+</a> 
+</p> </center>
+<h2><center>Tekan gambar untuk lanjut</center></center></h2>
+</body>
+</html>
